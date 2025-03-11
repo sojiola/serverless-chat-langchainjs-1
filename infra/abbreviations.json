@@ -11,7 +11,7 @@
     "cacheRedis": "redis-",
     "cdnProfiles": "cdnp-",
     "cdnProfilesEndpoints": "cdne-",
-    "cognitiveServicesAccounts": "cog-",
+    "cognitiveServicesAccounts": "cog-sa-",
     "cognitiveServicesFormRecognizer": "cog-fr-",
     "cognitiveServicesTextAnalytics": "cog-ta-",
     "cognitiveServicesSpeech": "cog-sp-",
